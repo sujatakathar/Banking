@@ -1,5 +1,5 @@
 package com.soft;
-
+// entity class for banking
 public class Banking {
 	private int custId;
 	private String custName;
